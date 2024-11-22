@@ -3,7 +3,7 @@
 > __OBS.__ <br>
 > 1. Pressupõe-se o uso de Linux
 > 2. Dependências: `ssh` e `xclip`
-> 3. Para a criação e manejo de recursos, utiliza-se, neste tutorial, o Console da MGC. Outras alternativas incluem a CLI da MGC e `terraform` (veja [https://docs.magalu.cloud/docs/devops-tools/cli-mgc/overview/] e [aqui](https://docs.magalu.cloud/docs/devops-tools/terraform/overview/)).
+> 3. Para a criação e manejo de recursos, utiliza-se, neste tutorial, o Console da MGC. Outras alternativas incluem a CLI da MGC e `terraform` (veja [aqui](https://docs.magalu.cloud/docs/devops-tools/cli-mgc/overview/) e [aqui](https://docs.magalu.cloud/docs/devops-tools/terraform/overview/)).
 
 ## Etapas Iniciais
 
