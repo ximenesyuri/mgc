@@ -5,7 +5,7 @@ Repository with stuff related to Magalu Cloud (or just `MGC`), a Brazilian publi
 # Contents
 
 - [utils](./utils): with utilities, as shell scripts and python libs
-- [docs](./docs): with some random notes on topics related to `MGC`
+- [docs](./docs): with some random notes and tips, mostly in Brazilian portuguese
 
 # Links
 
